@@ -1,4 +1,4 @@
-# T4DS Workshop
+# My T4DS Workshop
 
 ## Instructions for Contribution:
 
